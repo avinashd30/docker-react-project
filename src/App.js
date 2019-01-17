@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React! It's interesting. Great !! It's getting executed through docker compose now.
+            Learn React! It's interesting. Great !! The new branch is added called Feature.
           </a>
         </header>
       </div>
